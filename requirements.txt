@@ -1,3 +1,4 @@
-streamlit
-openai
-pypdf
+streamlit>=1.35
+openai>=1.30
+pypdf>=4.0
+pandas>=2.0
